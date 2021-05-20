@@ -5,9 +5,6 @@ This is a test version following the github procedures for uploading complete co
 
 Contributors
 
-Katie Irving;
-Abel Santana;
-
 Katie Irving, katiei@sccwrp.org, Abel Santana, abels@sccwrp.org
 
 
