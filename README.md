@@ -5,5 +5,5 @@ This is a test version following the github procedures for uploading complete co
 
 Contributors
 
-Katie Irving
-Abel Santana
+Katie Irving;
+Abel Santana;
